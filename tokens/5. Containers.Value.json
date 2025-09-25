@@ -1,0 +1,60 @@
+{
+  "container-padding-mobile": {
+    "$type": "number",
+    "$value": "{Spacing.4 (16px)}",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "GAP"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "container-padding-desktop": {
+    "$type": "number",
+    "$value": "{Spacing.8 (32px)}",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "GAP"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "container-max-width-desktop": {
+    "$type": "number",
+    "$value": "{Spacing.320 (1,280px)}",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "WIDTH_HEIGHT"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Approach #2": {
+    "container-max-width": {
+      "$type": "number",
+      "$value": "{Spacing.320 (1,280px)}",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    }
+  }
+}
